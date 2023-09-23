@@ -1,4 +1,3 @@
-![1](https://github.com/DanteDeFlorencia77/c/assets/4090490/a7ca2ecd-72f8-48ae-9695-829624c884d6)
-<h1>RECURSOS:</h1>
-<h2>HTLM/CSS/JAVASCRIPT:</h2>
+![image](https://github.com/DanteDeFlorencia77/c/assets/4090490/8c082703-cff3-43de-b849-b2964b30151d)
+
 
